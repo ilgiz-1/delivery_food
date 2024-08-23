@@ -1,0 +1,12 @@
+<svg width="32.000000" height="32.000000" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_8_930" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image8_93_0" transform="matrix(0.015625,0,0,0.015625,0,0)"/>
+		</pattern>
+		<image id="image8_93_0" width="64.000000" height="64.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAABFJJREFUeJzt21uIVVUcx/HPHMeizG6ajKFJRQTeksyUIDWICG0sCKEL9RB00158qITpAkFgFCRhRNFDVNAFqSwKJSikSIqyiQotoizSLg9STVNqzZwe1jnsfU7nzHjOvs3o+cJi5uy91v//W/99W+u/9uYopytnfwuwDEsqZXps3yA+x6f4BFswkLO+TCjhKryPcgtlAE8KQRu3XIOv/b9zB/EF3sazeAk7sLdB3TKexsk5a0/ERGxS24m/8BSuxAkjtJ2LR/BzXft96M1OcnpMV3u6H8ITOL1FO91CsL6L2RrCTakpzYBT8K1I8A+4MKHNk/ByzOYw1ia0mQldeEMk9F1MTdH+LcK9o2r/ihRtp8J6kbh+I1/n7XJrzMcvmJaBj7Y4H/+KblYzMvT1jCgIWzL00xIviEStztjXccIZVvW3OGN/ozID/whi3svJ53JRAJ7LyWdTNojEXJyj3+oA66CM7wUn4jrhNP8QP2K/MJLbit8rQvbKd25xlyjwfwjjjW+ER+Z6XIYpSRxMxAM4EHM0Unk8ibM2mCZ0eiRNB3AfjmnV+Gx83MDgfmzDW8IIbbiy/W/FTFrWYhf21JUhtbp3YenhGOzCOqFD1cZbhUvgnAb1j8d8nNFmB7JiFh7ET2pHkI+O1vD+WIMBYfQ1npmI64VcQ7Vfa5pVni+6pj7AWTkIzIulwgGtPjUW1VfoFrIwZeG0OTVPdTlxkeiJtUddH/tEp8iqvJXlSK+on49VN04RzbIKH1VlTJfwRCjj++rGG0RRmVmMrlxZI+rveYR8XBm/FigqTybhN6HPfSWcW9nxWWGS8mUQ2yv/95bQU/nRX4yeQihX/p5ZEiY7hPzd0caEknBXhHlFKimIcgk7Kz+SZm/HE9VFlt3xAMwVJjdHOrNEiZud8QBMcJhTxnHOzcJ6JSGN71hhVFTGV0LSMQ0WCUmS2SnZS4NuIWtdxjvxHatEo6ONKTi6VJRTeDEFe2kRn/Msqd/5qihxsDyBk2Vq59/XJrCVJutEml5rVGGmaM48IIyZW01yrsafMUd3tik2be4QaRrEnGYVr1Z79LZrnAqr52whdRbPw21IJDkdFuN5Ue5yHy4YrdEc7Fa7rv8K7sEKYeg8GZfg7sq+eA7xEO5Ntx+HTUlYnr8RH6k9IP1aWLKbrHZJur4MN9ner5js8Dx8qXma/HVtLtauEN7qaPbqSjX3vg23C0nIInioga5hvInLpbBg04WFdY52CG9wTEpqPAU2inQ9jJU4LQtHPTFHY+EmVyUegJ5R6tZQGr3KkU0nAEULKJpOAIoWUDSdABQtoGg6AShaQNF0AlC0gKLpTtB2AW5LS0hCclvUiU+GxmrpTIZaIcklsEl4FW0s0CckPlsmSQAGhe96xgKD7TY86i+BTgCKFlA0Se4BK7X4yMmQhXk5mqr45/xoJc0v1RqyeQx0slnZ3Gpn2l0wmCy8UDGWGNLG1+b/ASya0m4Kisr9AAAAAElFTkSuQmCC"/>
+	</defs>
+	<rect width="32.000000" height="32.000000" fill="url(#pattern_8_930)" fill-opacity="1.000000"/>
+</svg>
