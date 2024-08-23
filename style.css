@@ -11,7 +11,7 @@ body {
     display: block;
     margin: auto;
     margin-top: 60px;
-    padding: 87px 48px;
+    padding: 48px 87px 65px; 
 }
 
 .logo_button {
@@ -25,10 +25,12 @@ body {
   border: none;
   background: none;
   cursor: pointer;
-}
+  padding: 0;
+ }
 
 .nav {
   display: inline-block;
+  margin-left: 533px;
 }
 
 .nav_elem {
@@ -36,11 +38,14 @@ body {
   color: rgb(0, 0, 0);
   font-family: Poppins;
   font-size: 22px;
+  font-style: normal;
   font-weight: 400;
   line-height: 94.8%;
   cursor: pointer;
   letter-spacing: 0%;
   text-align: left;
+  margin-left: 54px;
+  padding: 0;
 }
 
 .nav_button {
@@ -49,9 +54,36 @@ body {
     cursor: pointer;
     color: rgb(0, 0, 0);
     font-family: Poppins;
+    font-style: normal;
     font-size: 22px;
-    font-weight: 400;
+    font-weight: 590;
     line-height: 94.8%;
-    letter-spacing: 0%;
     text-align: left;
+    padding: 0;
 }
+
+ul {
+  padding: 0;
+}
+.search_input {
+  width: 314px;
+  height: 60px;
+  padding-left: 41px;
+  padding-right: 35px;
+  border-radius: 30px;
+  box-shadow: 0px 12px 40px -16px rgba(0, 0, 0, 0.1);
+  background: rgba(255, 249, 240, 0.1);
+  color: rgb(0, 0, 0);
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 590;
+  line-height: 94.8%;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-left: 25px;
+}
+
+.info_img {
+  width: 750px;
+  height: 712px;
+ }
