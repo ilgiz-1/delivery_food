@@ -1,0 +1,57 @@
+body {
+    background: rgb(254, 187, 65);
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 1511px;
+    height: 886px;
+    border-radius: 24px;
+    background: linear-gradient(-31.69deg, rgb(244, 236, 225) 57.84%,rgb(252, 251, 247) 144.095%);
+    display: block;
+    margin: auto;
+    margin-top: 60px;
+    padding: 87px 48px;
+}
+
+.logo_button {
+  color: rgb(0, 0, 0);
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 139.8%;
+  letter-spacing: 0%;
+  text-align: left;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+.nav {
+  display: inline-block;
+}
+
+.nav_elem {
+  display: inline-block;
+  color: rgb(0, 0, 0);
+  font-family: Poppins;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 94.8%;
+  cursor: pointer;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.nav_button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 94.8%;
+    letter-spacing: 0%;
+    text-align: left;
+}
